@@ -37,9 +37,8 @@
 
                 <EditText
                     android:id="@+id/nama"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -62,9 +61,8 @@
 
                 <EditText
                     android:id="@+id/merk"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -87,9 +85,8 @@
 
                 <EditText
                     android:id="@+id/alamat"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -112,9 +109,8 @@
 
                 <EditText
                     android:id="@+id/jenis_induk_bangunan"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -137,9 +133,8 @@
 
                 <EditText
                     android:id="@+id/jenis_bangunan"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -162,9 +157,9 @@
 
                 <EditText
                     android:id="@+id/status_bangunan"
-                    android:layout_width="175dp"
+                    android:layout_width="150dp"
                     android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:inputType="number"/>
             </LinearLayout>
 
             <LinearLayout
@@ -187,9 +182,8 @@
 
                 <EditText
                     android:id="@+id/telpon"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -212,9 +206,8 @@
 
                 <EditText
                     android:id="@+id/npwp"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -237,9 +230,9 @@
 
                 <EditText
                     android:id="@+id/status_npwp"
-                    android:layout_width="175dp"
+                    android:layout_width="150dp"
                     android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:inputType="number"/>
             </LinearLayout>
 
             <LinearLayout
@@ -262,9 +255,8 @@
 
                 <EditText
                     android:id="@+id/uraian"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -287,9 +279,8 @@
 
                 <EditText
                     android:id="@+id/kpp"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -312,9 +303,8 @@
 
                 <EditText
                     android:id="@+id/kanwil"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -337,9 +327,9 @@
 
                 <EditText
                     android:id="@+id/spt"
-                    android:layout_width="175dp"
+                    android:layout_width="150dp"
                     android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:inputType="number"/>
             </LinearLayout>
 
             <LinearLayout
@@ -362,9 +352,8 @@
 
                 <EditText
                     android:id="@+id/tidak_lanjut"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -387,9 +376,9 @@
 
                 <EditText
                     android:id="@+id/account_representative"
-                    android:layout_width="175dp"
+                    android:layout_width="150dp"
                     android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:inputType="number"/>
             </LinearLayout>
 
             <LinearLayout
@@ -412,9 +401,9 @@
 
                 <EditText
                     android:id="@+id/seksi"
-                    android:layout_width="175dp"
+                    android:layout_width="150dp"
                     android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:inputType="number"/>
             </LinearLayout>
 
             <LinearLayout
@@ -437,9 +426,8 @@
 
                 <EditText
                     android:id="@+id/pembayaran"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -462,9 +450,8 @@
 
                 <EditText
                     android:id="@+id/pelaporan"
-                    android:layout_width="175dp"
-                    android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
             <LinearLayout
@@ -487,9 +474,58 @@
 
                 <EditText
                     android:id="@+id/global_id"
-                    android:layout_width="175dp"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dp"
+                android:layout_below="@id/linear19" >
+
+                <TextView
+                    android:layout_width="150dp"
                     android:layout_height="wrap_content"
-                    android:text="alamat"/>
+                    android:text="Latitude"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=":"
+                    android:paddingRight="10dp"/>
+
+                <EditText
+                    android:id="@+id/latitude"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dp"
+                android:layout_below="@id/linear20" >
+
+                <TextView
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:text="Longitude"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=":"
+                    android:paddingRight="10dp"/>
+
+                <EditText
+                    android:id="@+id/longitude"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"/>
             </LinearLayout>
         </RelativeLayout>
     </ScrollView>
